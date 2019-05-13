@@ -21,4 +21,5 @@ Install other dependent packages `plyr`, `qtl`, `mlmm`, `intermediate`
     install_github("simecek/intermediate")
 
 ```
-Reference: Li H, Wang X, Rukina D, Huang Q, Lin T, Sorrentino V, Zhang H, Arends D, McDaid A, Luan P, Ziari N, Velázquez-Villegas LA, Gariani K, Kutalik Z, Schoonjans K, Radcliffe RA, Prins P, Morgenthaler S, Williams RW, Auwerx J, An integrated systems genetics and omics toolkit to probe gene function. Cell Systems (2018) 6, 90-102. DOI: http://dx.doi.org/10.1016/j.cels.2017.10.016 
+### Reference: 
+Li H, Wang X, Rukina D, Huang Q, Lin T, Sorrentino V, Zhang H, Arends D, McDaid A, Luan P, Ziari N, Velázquez-Villegas LA, Gariani K, Kutalik Z, Schoonjans K, Radcliffe RA, Prins P, Morgenthaler S, Williams RW, Auwerx J, An integrated systems genetics and omics toolkit to probe gene function. Cell Systems (2018) 6, 90-102. DOI: http://dx.doi.org/10.1016/j.cels.2017.10.016 
